@@ -1,0 +1,14 @@
+# Кэш Python (то, о чем вы спросили)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Кэш тестов (pytest создает свои папки вроде .pytest_cache)
+.pytest_cache/
+.htmlcov/
+.coverage
+
+# Виртуальное окружение (если создавали внутри проекта)
+venv/
+.venv/
+env/
