@@ -16,3 +16,6 @@ env/
 
 # Mac
 .DS_store
+
+#temporary files
+1.xml
